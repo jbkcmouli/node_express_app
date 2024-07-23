@@ -8,7 +8,6 @@ on:
 
 # CONFIGURATION
 # For help, go to https://github.com/Azure/Actions
-
 env:
   AZURE_RESOURCE_GROUP: gh-accelerator   # set this to your Azure Resource group's name  
   AZURE_WEBAPP_NAME: node-gh-accelerator # set this to your Azure Web App's name  
