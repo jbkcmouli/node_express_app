@@ -6,7 +6,7 @@ name: Run Azure Login With a Service Principal Secret
 
 jobs:
 
-  build-and-deploy:
+  azure-cli-powershell:
     runs-on: ubuntu-latest
     steps:
 
